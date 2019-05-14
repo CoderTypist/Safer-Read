@@ -5,7 +5,7 @@
 #
 # USAGE:
 #     read someVariable
-#     strim() someVariable
+#     strim someVariable
 #
 # EXAMPLE:
 #     >> tvShow="Drake&Josh"
