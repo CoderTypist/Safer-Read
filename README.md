@@ -1,5 +1,4 @@
 # Safer-Read
-Truncates user input to exclude potentially unsafe syntax.
 DESCRIPTION: Truncates text from user input that may be potentially harmful.
 
 
